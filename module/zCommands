@@ -1,0 +1,2 @@
+sudo insmod netfilter_hook.ko
+sudo dismod netfilter_hook

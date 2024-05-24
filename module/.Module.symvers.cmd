@@ -1,0 +1,1 @@
+cmd_/home/jsparnaay/IdeaProjects/network_security/module/Module.symvers := sed 's/ko$$/o/' /home/jsparnaay/IdeaProjects/network_security/module/modules.order | scripts/mod/modpost -m -a  -o /home/jsparnaay/IdeaProjects/network_security/module/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/jsparnaay/IdeaProjects/network_security/module/netfilter_hook.mod := printf '%s\n'   netfilter_hook.o | awk '!x[$$0]++ { print("/home/jsparnaay/IdeaProjects/network_security/module/"$$0) }' > /home/jsparnaay/IdeaProjects/network_security/module/netfilter_hook.mod
